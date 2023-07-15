@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void) /*this is is a fonction return nothing*/
+/*main function is the first function in your program that is executed when it begins executing*/
+int main(void) 
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
