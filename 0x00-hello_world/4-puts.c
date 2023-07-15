@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main: is the first function  that is executed when it begins executing
- * return: always 0
+ * main - Entry point
+ * Description:C program that prints a sentance 
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
