@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description:C program that prints a sentance 
+ * Description: C program that prints a sentance
  * Return: Always 0 (Success)
  */
 int main(void)
