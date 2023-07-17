@@ -16,7 +16,7 @@ int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 /* your code goes there */
-int m;
+int m=0;
 m= n%2;
 if ( abs(m) > 5)
 {        
