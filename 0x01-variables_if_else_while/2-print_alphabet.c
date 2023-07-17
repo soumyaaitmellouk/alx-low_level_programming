@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 /**
 * main - Entry point
@@ -6,11 +5,13 @@
 * Return: Always 0 (Success)
 * 0 is zero 
 */
-void main()
+int main(void)
 {
-int ch;
-ch=='a';
-for (ch= 'a'; ch<= 'z'; ch++)
+int n =  97;
+
+for (n = 97 ; n <= 122; n++)
 {
-putchar(ch);
+putchar(n);
+}
+return (0);
 }
