@@ -13,5 +13,5 @@ for (n = 0; n <= 9; n++)
 putchar(n + 48);
 }
 putchar('\n');
-returne (0);
+return (0);
 }
