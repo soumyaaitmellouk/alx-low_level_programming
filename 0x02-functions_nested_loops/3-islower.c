@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 *_islower -print the alphabets in lowercase
+*Description: c program print a sentance.
 *Return: 1 for lowercase or 0 othrwise
 * c is a parametr
 */
