@@ -4,9 +4,8 @@
 *Description: c program print the sign.
 *Return: n if it's +, 0 for 0, and -n if it's -.
 */
-int _abs(int)
+int _abs(int n)
 {
-int n;
 if (n > 0)
 {
 return (n);
