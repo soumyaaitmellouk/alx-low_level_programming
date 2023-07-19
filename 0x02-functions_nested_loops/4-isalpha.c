@@ -1,7 +1,7 @@
 #include "main.h"
 /**
 *_isalpha -find the alphabets in lowercase
-*@c - dajg 
+*@c : le parametre a chercher 
 *Description: c program print a sentance.
 *Return: 1 for alphabetic caractere or 0 for anythinf else
 */
