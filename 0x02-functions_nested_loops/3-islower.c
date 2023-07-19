@@ -5,7 +5,7 @@
 *Return: Always 0 (Success)
 */
 int _islower(int c)
-{
+
 
 if (c  <= 97 && c >= 122)
 {
@@ -16,4 +16,4 @@ else if (c <= 65 && c >= 90)
 return (0);
 }
 _putchar('\n');
-}
+
