@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*print_alphabet -print the alphabets in lowercase
+*print_alphabet_x10 -print the alphabets in lowercase
 *Description: c program print a sentance.
 *Return: Always 0 (Success)
 */
