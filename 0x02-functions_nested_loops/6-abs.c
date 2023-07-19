@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 *_abs - print the abs of a number
+*@n :le parametre a chercher
 *Description: c program print the sign.
 *Return: n if it's +, 0 for 0, and -n if it's -.
 */
