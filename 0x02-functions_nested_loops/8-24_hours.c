@@ -15,7 +15,7 @@ for (k = 0; k <= 5; k++)
 {
 for (l = 0; l <= 9; l++)
 {
-if (i >=2 && j >= 4)
+if (i >= 2 && j >= 4)
 	break;
 _putchar(i + 48);
 _putchar(j + 48);
