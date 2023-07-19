@@ -3,7 +3,7 @@
 *print_sign - print th sign of a number
 *Description: c program print the sign.
 *@n :le parametre a chercher
-Return: 1 for +, 0 for 0, and -1 for -.
+*Return: 1 for +, 0 for 0, and -1 for -.
 */
 int print_sign(int n)
 {
