@@ -6,15 +6,14 @@
 */
 int _islower(int c)
 {
-int  m =0;
+int m = 0;
 if (c  <= 97 && c >= 122)
 {
-/*return (1);*/
 m = _putchar(49);
 }
 else if (c <= 65 && c >= 90)
 {
 m = _putchar(48);
 }
-return (m); 
+return (m);
 }
