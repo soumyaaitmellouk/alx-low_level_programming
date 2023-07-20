@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 #include "main.h"
 /**
 *print_to_98 - afficher les nombres jusqu'à 98.
