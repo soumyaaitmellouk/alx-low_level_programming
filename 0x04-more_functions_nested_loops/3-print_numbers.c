@@ -1,8 +1,8 @@
 #include "main.h"
 /*
-*print_numbers- print number from 0 to 9.
-*Description: function that prints the numbers.
-*Return: nothing.
+*void print_numbers - print 0-9
+*Description: 'the program's description'
+* return: void
 */
 void print_numbers(void)
 {
