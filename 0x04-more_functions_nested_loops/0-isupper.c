@@ -3,7 +3,7 @@
 *_isupper -print the alphabets in lowercase
 *@c: parametre a essayer
 *Description: c program print a sentance.
-*Return: 1 for uppercase 0 lowercase 
+*Return:1 for uppercase 0 lowercase
 */
 int _isupper(int c)
 {
