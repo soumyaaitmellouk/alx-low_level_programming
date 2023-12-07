@@ -1,4 +1,9 @@
 #include "lists.h"
+/**
+ * print_dlistint- prints all the elements of linked list.
+ * @h: paramert
+ * Return: number of element.
+ */
 size_t print_dlistint(const dlistint_t *h)
 {
 	int somme = 0;
