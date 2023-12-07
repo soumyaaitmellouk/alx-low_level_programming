@@ -1,4 +1,4 @@
-#includ "lists.h"
+#include "lists.h"
 /**
  * add_dnodeint- adds a new node at the beginning
  * @head: parameter 1.
@@ -30,4 +30,4 @@ dlistint_t *add_dnodeint(dlistint_t **head, const int n)
 	*head = new;
 
 	return (new);
-}	
+}
