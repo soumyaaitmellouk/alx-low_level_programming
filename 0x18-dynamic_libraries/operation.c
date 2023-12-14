@@ -20,12 +20,12 @@ int sub(int a, int b)
 	return (a - b);
 }
 /**
- * division- divide a by b
+ * div- divide a by b
  * @a: parametr 1.
  * @b: parametr 2
  * Return: div
  */
-int division(int a, int b)
+int div(int a, int b)
 {
 	if (b == 0)
 	{	printf("Error");
@@ -37,22 +37,22 @@ int division(int a, int b)
 	}
 }
 /**
- * multiplication- multiple a et b
+ * mul- multiple a et b
  * @a: parametr 1.
  * @b: parametr 2
  * Return: multi
  */
-int multiplication(int a, int b)
+int mul(int a, int b)
 {
 	return (a * b);
 }
 /**
- * modulo- moduloo a et b
+ * mod- moduloo a et b
  * @a: parametr 1.
  * @b: parametr 2
  * Return: modulo
  */
-int modulo(int a, int b)
+int mod(int a, int b)
 {
 	if (b == 0)
 	{
